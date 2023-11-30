@@ -1,0 +1,382 @@
+,date,time,team,opponent
+0,2023-08-11,18:30,Almeria,Rayo Vallecano
+1,2023-08-11,21:00,Sevilla,Valencia
+2,2023-08-12,16:00,Real Sociedad,Girona
+3,2023-08-12,18:30,Las Palmas,Mallorca
+4,2023-08-12,20:30,Athletic Club,Real Madrid
+5,2023-08-13,16:00,Celta Vigo,Osasuna
+6,2023-08-13,18:30,Villarreal,Real Betis
+7,2023-08-13,20:30,Getafe,Barcelona
+8,2023-08-14,18:30,Cadiz,Alaves
+9,2023-08-14,20:30,Atletico Madrid,Granada
+10,2023-08-18,18:30,Mallorca,Villarreal
+11,2023-08-18,21:00,Valencia,Las Palmas
+12,2023-08-19,16:00,Real Sociedad,Celta Vigo
+13,2023-08-19,18:30,Almeria,Real Madrid
+14,2023-08-19,20:30,Osasuna,Athletic Club
+15,2023-08-20,18:00,Girona,Getafe
+16,2023-08-20,18:30,Barcelona,Cadiz
+17,2023-08-20,20:30,Real Betis,Atletico Madrid
+18,2023-08-21,18:00,Alaves,Sevilla
+19,2023-08-21,20:30,Granada,Rayo Vallecano
+20,2023-08-25,18:30,Las Palmas,Real Sociedad
+21,2023-08-25,20:30,Celta Vigo,Real Madrid
+22,2023-08-26,16:30,Cadiz,Almeria
+23,2023-08-26,18:30,Granada,Mallorca
+24,2023-08-26,20:30,Sevilla,Girona
+25,2023-08-27,16:30,Villarreal,Barcelona
+26,2023-08-27,18:30,Valencia,Osasuna
+27,2023-08-27,20:30,Athletic Club,Real Betis
+28,2023-08-28,18:30,Getafe,Alaves
+29,2023-08-28,20:30,Rayo Vallecano,Atletico Madrid
+30,2023-09-01,18:30,Cadiz,Villarreal
+31,2023-09-01,21:00,Almeria,Celta Vigo
+32,2023-09-02,13:00,Real Sociedad,Granada
+33,2023-09-02,15:15,Real Madrid,Getafe
+34,2023-09-02,17:30,Alaves,Valencia
+35,2023-09-02,20:00,Real Betis,Rayo Vallecano
+36,2023-09-03,13:00,Girona,Las Palmas
+37,2023-09-03,15:15,Mallorca,Athletic Club
+38,2023-09-03,17:30,Atletico Madrid,Sevilla
+39,2023-09-03,20:00,Osasuna,Barcelona
+40,2023-09-15,20:00,Rayo Vallecano,Alaves
+41,2023-09-16,13:00,Athletic Club,Cadiz
+42,2023-09-16,15:15,Valencia,Atletico Madrid
+43,2023-09-16,17:30,Celta Vigo,Mallorca
+44,2023-09-16,20:00,Barcelona,Betis
+45,2023-09-17,13:00,Getafe,Osasuna
+46,2023-09-17,15:15,Villarreal,Almeria
+47,2023-09-17,17:30,Sevilla,Las Palmas
+48,2023-09-17,20:00,Real Madrid,Real Sociedad
+49,2023-09-18,20:00,Granada,Girona
+50,2023-09-22,20:00,Alaves,Athletic Club
+51,2023-09-23,13:00,Girona,Mallorca
+52,2023-09-23,15:15,Osasuna,Sevilla
+53,2023-09-23,17:30,Barcelona,Celta Vigo
+54,2023-09-23,20:00,Almeria,Valencia
+55,2023-09-24,13:00,Real Sociedad,Getafe
+56,2023-09-24,15:15,Rayo Vallecano,Villarreal
+57,2023-09-24,17:30,Las Palmas,Granada
+58,2023-09-24,17:30,Real Betis,Cadiz
+59,2023-09-24,20:00,Atletico Madrid,Real Madrid
+60,2023-09-26,18:00,Sevilla,Almeria
+61,2023-09-26,20:30,Mallorca,Barcelona
+62,2023-09-27,18:00,Athletic Club,Getafe
+63,2023-09-27,18:00,Real Madrid,Las Palmas
+64,2023-09-27,18:00,Villarreal,Girona
+65,2023-09-27,20:30,Cadiz,Rayo Vallecano
+66,2023-09-27,20:30,Valencia,Real Sociedad
+67,2023-09-28,18:00,Celta Vigo,Alaves
+68,2023-09-28,18:00,Granada,Real Betis
+69,2023-09-28,20:30,Osasuna,Atletico Madrid
+70,2023-09-29,20:00,Barcelona,Sevilla
+71,2023-09-30,13:00,Getafe,Villarreal
+72,2023-09-30,15:15,Rayo Vallecano,Mallorca
+73,2023-09-30,17:30,Girona,Real Madrid
+74,2023-09-30,20:00,Real Sociedad,Athletic Club
+75,2023-10-01,13:00,Almeria,Granada
+76,2023-10-01,15:15,Alaves,Osasuna
+77,2023-10-01,20:00,Real Betis,Valencia
+78,2023-10-01,20:00,Atletico Madrid,Cadiz
+79,2023-10-02,20:00,Las Palmas,Celta Vigo
+80,2023-10-06,20:00,Athletic Club,Almeria
+81,2023-10-07,13:00,Cadiz,Girona
+82,2023-10-07,15:15,Real Madrid,Osasuna
+83,2023-10-07,17:30,Mallorca,Valencia
+84,2023-10-07,20:00,Sevilla,Rayo Vallecano
+85,2023-10-08,13:00,Villarreal,Las Palmas
+86,2023-10-08,15:15,Atletico Madrid,Real Sociedad
+87,2023-10-08,17:30,Alaves,Real Betis
+88,2023-10-08,17:30,Celta Vigo,Getafe
+89,2023-10-08,20:00,Granada,Barcelona
+90,2023-10-20,20:00,Osasuna,Granada
+91,2023-10-21,13:00,Real Sociedad,Mallorca
+92,2023-10-21,15:15,Getafe,Real Betis
+93,2023-10-21,17:30,Sevilla,Real Madrid
+94,2023-10-21,20:00,Celta Vigo,Atletico Madrid
+95,2023-10-22,13:00,Las Palmas,Rayo Vallecano
+96,2023-10-22,15:15,Girona,Almeria
+97,2023-10-22,17:30,Villarreal,Alaves
+98,2023-10-22,20:00,Barcelona,Athletic Club
+99,2023-10-23,20:00,Valencia,Cadiz
+100,2023-10-27,20:00,Girona,Celta Vigo
+101,2023-10-28,13:00,Almeria,Las Palmas
+102,2023-10-28,15:15,Barcelona,Real Madrid
+103,2023-10-28,17:30,Mallorca,Getafe
+104,2023-10-28,20:00,Cadiz,Sevilla
+105,2023-10-29,13:00,Real Betis,Osasuna
+106,2023-10-29,15:15,Rayo Vallecano,Real Sociedad
+107,2023-10-29,17:30,Athletic Club,Valencia
+108,2023-10-29,20:00,Atletico Madrid,Alaves
+109,2023-10-30,20:00,Granada,Villarreal
+110,2023-11-03,20:00,Las Palmas,Atletico Madrid
+111,2023-11-04,13:00,Osasuna,Girona
+112,2023-11-04,15:15,Real Betis,Mallorca
+113,2023-11-04,17:30,Celta Vigo,Sevilla
+114,2023-11-04,20:00,Real Sociedad,Barcelona
+115,2023-11-05,13:00,Alaves,Almeria
+116,2023-11-05,15:15,Valencia,Granada
+117,2023-11-05,17:30,Villarreal,Athletic Club
+118,2023-11-05,20:00,Real Madrid,Rayo Vallecano
+119,2023-11-06,20:00,Getafe,Cadiz
+120,2023-11-10,20:00,Athletic Club,Celta Vigo
+121,2023-11-11,13:00,Rayo Vallecano,Girona
+122,2023-11-11,15:15,Almeria,Real Sociedad
+123,2023-11-11,17:30,Granada,Getafe
+124,2023-11-11,17:30,Osasuna,Las Palmas
+125,2023-11-11,20:00,Real Madrid,Valencia
+126,2023-11-12,15:15,Barcelona,Alaves
+127,2023-11-12,17:30,Sevilla,Real Betis
+128,2023-11-12,20:00,Atletico Madrid,Villarreal
+129,2023-11-12,Postponed,Mallorca,Cadiz
+130,2023-11-24,20:00,Alaves,Granada
+131,2023-11-25,13:00,Rayo Vallecano,Barcelona
+132,2023-11-25,15:15,Valencia,Celta Vigo
+133,2023-11-25,17:30,Getafe,Almeria
+134,2023-11-25,20:00,Atletico Madrid,Mallorca
+135,2023-11-26,13:00,Villarreal,Osasuna
+136,2023-11-26,15:15,Real Sociedad,Sevilla
+137,2023-11-26,17:30,Cadiz,Real Madrid
+138,2023-11-26,20:00,Real Betis,Las Palmas
+139,2023-11-27,20:00,Girona,Athletic Club
+140,2023-11-29,20:00,Mallorca,Cadiz
+141,2023-12-01,20:00,Las Palmas,Getafe
+142,2023-12-02,13:00,Girona,Valencia
+143,2023-12-02,15:15,Athletic Club,Rayo Vallecano
+144,2023-12-02,17:30,Real Madrid,Granada
+145,2023-12-02,20:00,Osasuna,Real Sociedad
+146,2023-12-03,13:00,Mallorca,Alaves
+147,2023-12-03,15:15,Almeria,Real Betis
+148,2023-12-03,17:30,Sevilla,Villarreal
+149,2023-12-03,20:00,Barcelona,Atletico Madrid
+150,2023-12-04,20:00,Celta Vigo,Cadiz
+151,2023-12-10,TBC,Alaves,Las Palmas
+152,2023-12-10,TBC,Atletico Madrid,Almeria
+153,2023-12-10,TBC,Barcelona,Girona
+154,2023-12-10,TBC,Cadiz,Osasuna
+155,2023-12-10,TBC,Getafe,Valencia
+156,2023-12-10,TBC,Granada,Athletic Club
+157,2023-12-10,TBC,Mallorca,Sevilla
+158,2023-12-10,TBC,Rayo Vallecano,Celta Vigo
+159,2023-12-10,TBC,Real Betis,Real Madrid
+160,2023-12-10,TBC,Villarreal,Real Sociedad
+161,2023-12-17,TBC,Almeria,Mallorca
+162,2023-12-17,TBC,Athletic Club,Atletico Madrid
+163,2023-12-17,TBC,Celta Vigo,Granada
+164,2023-12-17,TBC,Girona,Alaves
+165,2023-12-17,TBC,Las Palmas,Cadiz
+166,2023-12-17,TBC,Osasuna,Rayo Vallecano
+167,2023-12-17,TBC,Real Madrid,Villarreal
+168,2023-12-17,TBC,Real Sociedad,Real Betis
+169,2023-12-17,TBC,Sevilla,Getafe
+170,2023-12-17,TBC,Valencia,Barcelona
+171,2023-12-20,TBC,Alaves,Real Madrid
+172,2023-12-20,TBC,Athletic Club,Las Palmas
+173,2023-12-20,TBC,Atletico Madrid,Getafe
+174,2023-12-20,TBC,Barcelona,Almeria
+175,2023-12-20,TBC,Cadiz,Real Sociedad
+176,2023-12-20,TBC,Granada,Sevilla
+177,2023-12-20,TBC,Mallorca,Osasuna
+178,2023-12-20,TBC,Rayo Vallecano,Valencia
+179,2023-12-20,TBC,Real Betis,Girona
+180,2023-12-20,TBC,Villarreal,Celta Vigo
+181,2024-01-03,TBC,Celta Vigo,Real Betis
+182,2024-01-03,TBC,Getafe,Rayo Vallecano
+183,2024-01-03,TBC,Girona,Atletico Madrid
+184,2024-01-03,TBC,Granada,Cadiz
+185,2024-01-03,TBC,Las Palmas,Barcelona
+186,2024-01-03,TBC,Osasuna,Almeria
+187,2024-01-03,TBC,Real Madrid,Mallorca
+188,2024-01-03,TBC,Real Sociedad,Alaves
+189,2024-01-03,TBC,Sevilla,Athletic Club
+190,2024-01-03,TBC,Valencia,Villarreal
+191,2024-01-14,TBC,Almeria,Girona
+192,2024-01-14,TBC,Athletic Club,Real Sociedad
+193,2024-01-14,TBC,Atletico Madrid,Rayo Vallecano
+194,2024-01-14,TBC,Barcelona,Osasuna
+195,2024-01-14,TBC,Cadiz,Valencia
+196,2024-01-14,TBC,Getafe,Real Madrid
+197,2024-01-14,TBC,Las Palmas,Villarreal
+198,2024-01-14,TBC,Mallorca,Celta Vigo
+199,2024-01-14,TBC,Real Betis,Granada
+200,2024-01-14,TBC,Sevilla,Alaves
+201,2024-01-21,TBC,Alaves,Cadiz
+202,2024-01-21,TBC,Celta Vigo,Real Sociedad
+203,2024-01-21,TBC,Girona,Sevilla
+204,2024-01-21,TBC,Granada,Atletico Madrid
+205,2024-01-21,TBC,Osasuna,Getafe
+206,2024-01-21,TBC,Rayo Vallecano,Las Palmas
+207,2024-01-21,TBC,Real Betis,Barcelona
+208,2024-01-21,TBC,Real Madrid,Almeria
+209,2024-01-21,TBC,Valencia,Athletic Club
+210,2024-01-21,TBC,Villarreal,Mallorca
+211,2024-01-28,TBC,Almeria,Alaves
+212,2024-01-28,TBC,Atletico Madrid,Valencia
+213,2024-01-28,TBC,Barcelona,Villarreal
+214,2024-01-28,TBC,Cadiz,Athletic Club
+215,2024-01-28,TBC,Celta Vigo,Girona
+216,2024-01-28,TBC,Getafe,Granada
+217,2024-01-28,TBC,Las Palmas,Real Madrid
+218,2024-01-28,TBC,Mallorca,Real Betis
+219,2024-01-28,TBC,Real Sociedad,Rayo Vallecano
+220,2024-01-28,TBC,Sevilla,Osasuna
+221,2024-02-04,TBC,Alaves,Barcelona
+222,2024-02-04,TBC,Athletic Club,Mallorca
+223,2024-02-04,TBC,Girona,Real Sociedad
+224,2024-02-04,TBC,Granada,Las Palmas
+225,2024-02-04,TBC,Osasuna,Celta Vigo
+226,2024-02-04,TBC,Rayo Vallecano,Sevilla
+227,2024-02-04,TBC,Real Betis,Getafe
+228,2024-02-04,TBC,Real Madrid,Atletico Madrid
+229,2024-02-04,TBC,Valencia,Almeria
+230,2024-02-04,TBC,Villarreal,Cadiz
+231,2024-02-11,TBC,Alaves,Villarreal
+232,2024-02-11,TBC,Almeria,Athletic Club
+233,2024-02-11,TBC,Barcelona,Granada
+234,2024-02-11,TBC,Cadiz,Real Betis
+235,2024-02-11,TBC,Getafe,Celta Vigo
+236,2024-02-11,TBC,Las Palmas,Valencia
+237,2024-02-11,TBC,Mallorca,Rayo Vallecano
+238,2024-02-11,TBC,Real Madrid,Girona
+239,2024-02-11,TBC,Real Sociedad,Osasuna
+240,2024-02-11,TBC,Sevilla,Atletico Madrid
+241,2024-02-18,TBC,Athletic Club,Girona
+242,2024-02-18,TBC,Atletico Madrid,Las Palmas
+243,2024-02-18,TBC,Celta Vigo,Barcelona
+244,2024-02-18,TBC,Granada,Almeria
+245,2024-02-18,TBC,Mallorca,Real Sociedad
+246,2024-02-18,TBC,Osasuna,Cadiz
+247,2024-02-18,TBC,Rayo Vallecano,Real Madrid
+248,2024-02-18,TBC,Real Betis,Alaves
+249,2024-02-18,TBC,Valencia,Sevilla
+250,2024-02-18,TBC,Villarreal,Getafe
+251,2024-02-25,TBC,Alaves,Mallorca
+252,2024-02-25,TBC,Almeria,Atletico Madrid
+253,2024-02-25,TBC,Barcelona,Getafe
+254,2024-02-25,TBC,Cadiz,Celta Vigo
+255,2024-02-25,TBC,Girona,Rayo Vallecano
+256,2024-02-25,TBC,Granada,Valencia
+257,2024-02-25,TBC,Las Palmas,Osasuna
+258,2024-02-25,TBC,Real Betis,Athletic Club
+259,2024-02-25,TBC,Real Madrid,Sevilla
+260,2024-02-25,TBC,Real Sociedad,Villarreal
+261,2024-03-03,TBC,Athletic Club,Barcelona
+262,2024-03-03,TBC,Atletico Madrid,Real Betis
+263,2024-03-03,TBC,Celta Vigo,Almeria
+264,2024-03-03,TBC,Getafe,Las Palmas
+265,2024-03-03,TBC,Mallorca,Girona
+266,2024-03-03,TBC,Osasuna,Alaves
+267,2024-03-03,TBC,Rayo Vallecano,Cadiz
+268,2024-03-03,TBC,Sevilla,Real Sociedad
+269,2024-03-03,TBC,Valencia,Real Madrid
+270,2024-03-03,TBC,Villarreal,Granada
+271,2024-03-10,TBC,Alaves,Rayo Vallecano
+272,2024-03-10,TBC,Almeria,Sevilla
+273,2024-03-10,TBC,Barcelona,Mallorca
+274,2024-03-10,TBC,Cadiz,Atletico Madrid
+275,2024-03-10,TBC,Girona,Osasuna
+276,2024-03-10,TBC,Granada,Real Sociedad
+277,2024-03-10,TBC,Las Palmas,Athletic Club
+278,2024-03-10,TBC,Real Betis,Villarreal
+279,2024-03-10,TBC,Real Madrid,Celta Vigo
+280,2024-03-10,TBC,Valencia,Getafe
+281,2024-03-17,TBC,Athletic Club,Alaves
+282,2024-03-17,TBC,Atletico Madrid,Barcelona
+283,2024-03-17,TBC,Getafe,Girona
+284,2024-03-17,TBC,Las Palmas,Almeria
+285,2024-03-17,TBC,Mallorca,Granada
+286,2024-03-17,TBC,Osasuna,Real Madrid
+287,2024-03-17,TBC,Rayo Vallecano,Real Betis
+288,2024-03-17,TBC,Real Sociedad,Cadiz
+289,2024-03-17,TBC,Sevilla,Celta Vigo
+290,2024-03-17,TBC,Villarreal,Valencia
+291,2024-03-31,TBC,Alaves,Real Sociedad
+292,2024-03-31,TBC,Almeria,Osasuna
+293,2024-03-31,TBC,Barcelona,Las Palmas
+294,2024-03-31,TBC,Cadiz,Granada
+295,2024-03-31,TBC,Celta Vigo,Rayo Vallecano
+296,2024-03-31,TBC,Getafe,Sevilla
+297,2024-03-31,TBC,Girona,Real Betis
+298,2024-03-31,TBC,Real Madrid,Athletic Club
+299,2024-03-31,TBC,Valencia,Mallorca
+300,2024-03-31,TBC,Villarreal,Atletico Madrid
+301,2024-04-14,TBC,Athletic Club,Villarreal
+302,2024-04-14,TBC,Atletico Madrid,Girona
+303,2024-04-14,TBC,Cadiz,Barcelona
+304,2024-04-14,TBC,Granada,Alaves
+305,2024-04-14,TBC,Las Palmas,Sevilla
+306,2024-04-14,TBC,Mallorca,Real Madrid
+307,2024-04-14,TBC,Osasuna,Valencia
+308,2024-04-14,TBC,Rayo Vallecano,Getafe
+309,2024-04-14,TBC,Real Betis,Celta Vigo
+310,2024-04-14,TBC,Real Sociedad,Almeria
+311,2024-04-21,TBC,Alaves,Atletico Madrid
+312,2024-04-21,TBC,Almeria,Villarreal
+313,2024-04-21,TBC,Athletic Club,Granada
+314,2024-04-21,TBC,Celta Vigo,Las Palmas
+315,2024-04-21,TBC,Getafe,Real Sociedad
+316,2024-04-21,TBC,Girona,Cadiz
+317,2024-04-21,TBC,Rayo Vallecano,Osasuna
+318,2024-04-21,TBC,Real Madrid,Barcelona
+319,2024-04-21,TBC,Sevilla,Mallorca
+320,2024-04-21,TBC,Valencia,Real Betis
+321,2024-04-28,TBC,Alaves,Celta Vigo
+322,2024-04-28,TBC,Almeria,Getafe
+323,2024-04-28,TBC,Atletico Madrid,Athletic Club
+324,2024-04-28,TBC,Barcelona,Valencia
+325,2024-04-28,TBC,Cadiz,Mallorca
+326,2024-04-28,TBC,Granada,Osasuna
+327,2024-04-28,TBC,Las Palmas,Girona
+328,2024-04-28,TBC,Real Betis,Sevilla
+329,2024-04-28,TBC,Real Sociedad,Real Madrid
+330,2024-04-28,TBC,Villarreal,Rayo Vallecano
+331,2024-05-05,TBC,Celta Vigo,Villarreal
+332,2024-05-05,TBC,Getafe,Athletic Club
+333,2024-05-05,TBC,Girona,Barcelona
+334,2024-05-05,TBC,Mallorca,Atletico Madrid
+335,2024-05-05,TBC,Osasuna,Real Betis
+336,2024-05-05,TBC,Rayo Vallecano,Almeria
+337,2024-05-05,TBC,Real Madrid,Cadiz
+338,2024-05-05,TBC,Real Sociedad,Las Palmas
+339,2024-05-05,TBC,Sevilla,Granada
+340,2024-05-05,TBC,Valencia,Alaves
+341,2024-05-12,TBC,Alaves,Girona
+342,2024-05-12,TBC,Athletic Club,Osasuna
+343,2024-05-12,TBC,Atletico Madrid,Celta Vigo
+344,2024-05-12,TBC,Barcelona,Real Sociedad
+345,2024-05-12,TBC,Cadiz,Getafe
+346,2024-05-12,TBC,Granada,Real Madrid
+347,2024-05-12,TBC,Mallorca,Las Palmas
+348,2024-05-12,TBC,Real Betis,Almeria
+349,2024-05-12,TBC,Valencia,Rayo Vallecano
+350,2024-05-12,TBC,Villarreal,Sevilla
+351,2024-05-15,TBC,Almeria,Barcelona
+352,2024-05-15,TBC,Celta Vigo,Athletic Club
+353,2024-05-15,TBC,Getafe,Atletico Madrid
+354,2024-05-15,TBC,Girona,Villarreal
+355,2024-05-15,TBC,Las Palmas,Real Betis
+356,2024-05-15,TBC,Osasuna,Mallorca
+357,2024-05-15,TBC,Rayo Vallecano,Granada
+358,2024-05-15,TBC,Real Madrid,Alaves
+359,2024-05-15,TBC,Real Sociedad,Valencia
+360,2024-05-15,TBC,Sevilla,Cadiz
+361,2024-05-19,TBC,Alaves,Getafe
+362,2024-05-19,TBC,Athletic Club,Sevilla
+363,2024-05-19,TBC,Atletico Madrid,Osasuna
+364,2024-05-19,TBC,Barcelona,Rayo Vallecano
+365,2024-05-19,TBC,Cadiz,Las Palmas
+366,2024-05-19,TBC,Granada,Celta Vigo
+367,2024-05-19,TBC,Mallorca,Almeria
+368,2024-05-19,TBC,Real Betis,Real Sociedad
+369,2024-05-19,TBC,Valencia,Girona
+370,2024-05-19,TBC,Villarreal,Real Madrid
+371,2024-05-26,TBC,Almeria,Cadiz
+372,2024-05-26,TBC,Celta Vigo,Valencia
+373,2024-05-26,TBC,Getafe,Mallorca
+374,2024-05-26,TBC,Girona,Granada
+375,2024-05-26,TBC,Las Palmas,Alaves
+376,2024-05-26,TBC,Osasuna,Villarreal
+377,2024-05-26,TBC,Rayo Vallecano,Athletic Club
+378,2024-05-26,TBC,Real Madrid,Real Betis
+379,2024-05-26,TBC,Real Sociedad,Atletico Madrid
+380,2024-05-26,TBC,Sevilla,Barcelona
